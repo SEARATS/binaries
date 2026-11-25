@@ -69,3 +69,19 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Spruance VLS in the FBX viewer
 
 ![Spruance VLS in the FBX viewer](17-fbx-preview.png)
+
+## Mesh tooltip on the assembled Spruance
+
+![Mesh tooltip on the assembled Spruance](18-entity-mesh-hover.png)
+
+## Sphere collider wireframes and INI source tooltip
+
+![Sphere collider wireframes and INI source tooltip](19-sphere-colliders.png)
+
+## Ctrl+click opens the collider definition beside the preview
+
+![Ctrl+click opens the collider definition beside the preview](20-preview-definition.png)
+
+## Repeated mesh and its source template
+
+![Repeated mesh and its source template](21-hierarchy-definition.png)
