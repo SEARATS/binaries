@@ -105,3 +105,7 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Sensor reference linked from the Spruance unit card
 
 ![Sensor reference linked from the Spruance unit card](27-sensor-card.png)
+
+## Unit hints on the stock Victor K2
+
+![Unit hints on the stock Victor K2](28-unit-hints.png)
