@@ -74,6 +74,14 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Mesh tooltip on the assembled Spruance](18-entity-mesh-hover.png)
 
+## Meshes, colliders and system markers on the Spruance
+
+![Meshes, colliders and system markers on the Spruance](22-entity-trees.png)
+
+## Highlighted colliders with the weapon system first in the tooltip
+
+![Highlighted colliders with the weapon system first in the tooltip](23-collider-highlight.png)
+
 ## Sphere collider wireframes and INI source tooltip
 
 ![Sphere collider wireframes and INI source tooltip](19-sphere-colliders.png)
