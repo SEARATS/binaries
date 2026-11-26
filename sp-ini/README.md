@@ -70,6 +70,10 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Spruance VLS in the FBX viewer](17-fbx-preview.png)
 
+## Spruance VLS in the entity preview
+
+![Spruance VLS in the entity preview](26-entity-preview.png)
+
 ## Mesh tooltip on the assembled Spruance
 
 ![Mesh tooltip on the assembled Spruance](18-entity-mesh-hover.png)
