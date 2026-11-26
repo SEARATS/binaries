@@ -101,3 +101,7 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Spruance VLS unit reference card
 
 ![Spruance VLS unit reference card](24-unit-card.png)
+
+## Sensor reference linked from the Spruance unit card
+
+![Sensor reference linked from the Spruance unit card](27-sensor-card.png)
