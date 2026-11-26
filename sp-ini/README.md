@@ -70,10 +70,6 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Spruance VLS in the FBX viewer](17-fbx-preview.png)
 
-## Spruance VLS in the entity preview
-
-![Spruance VLS in the entity preview](26-entity-preview.png)
-
 ## Mesh tooltip on the assembled Spruance
 
 ![Mesh tooltip on the assembled Spruance](18-entity-mesh-hover.png)
@@ -82,9 +78,9 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Meshes, colliders and system markers on the Spruance](22-entity-trees.png)
 
-## Selected system firing and elevation arcs
+## Spruance VLS with wireframe colliders and system arcs
 
-![Selected system firing and elevation arcs](25-system-arcs.png)
+![Spruance VLS with wireframe colliders and system arcs](26-entity-preview.png)
 
 ## Highlighted colliders with the weapon system first in the tooltip
 
