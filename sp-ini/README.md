@@ -78,6 +78,10 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Meshes, colliders and system markers on the Spruance](22-entity-trees.png)
 
+## Selected system firing and elevation arcs
+
+![Selected system firing and elevation arcs](25-system-arcs.png)
+
 ## Highlighted colliders with the weapon system first in the tooltip
 
 ![Highlighted colliders with the weapon system first in the tooltip](23-collider-highlight.png)
@@ -86,9 +90,9 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 
 ![Sphere collider wireframes and INI source tooltip](19-sphere-colliders.png)
 
-## Ctrl+click opens the collider definition beside the preview
+## Shift+click opens the collider definition beside the preview
 
-![Ctrl+click opens the collider definition beside the preview](20-preview-definition.png)
+![Shift+click opens the collider definition beside the preview](20-preview-definition.png)
 
 ## Repeated mesh and its source template
 
