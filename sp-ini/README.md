@@ -93,3 +93,7 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Repeated mesh and its source template
 
 ![Repeated mesh and its source template](21-hierarchy-definition.png)
+
+## Spruance VLS unit reference card
+
+![Spruance VLS unit reference card](24-unit-card.png)
