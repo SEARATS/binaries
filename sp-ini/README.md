@@ -109,3 +109,17 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Unit hints on the stock Victor K2
 
 ![Unit hints on the stock Victor K2](28-unit-hints.png)
+
+## Export INI
+
+![Object roles, rig preview and planned INI for the Spruance VLS](29-export-ini.png)
+
+![Deck and port propeller with generated box and sphere colliders off and on](30-wrapped-colliders.png)
+
+## Workspace analysis
+
+![Conflicting values in three stock aircraft INIs](31-workspace-analysis.png)
+
+## Unity material preview
+
+![Spruance VLS deck material and its texture maps](32-unity-material.png)
