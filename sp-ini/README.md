@@ -123,3 +123,7 @@ Captured in VS Code with the stock Spruance VLS destroyer.
 ## Unity material preview
 
 ![Spruance VLS deck material and its texture maps](32-unity-material.png)
+
+## Radar animation
+
+![Search radars rotating on the stock Spruance VLS in the INI hierarchy preview](33-radar-animation.gif)
